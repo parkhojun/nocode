@@ -1,6 +1,6 @@
 [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/gkswjdzz/nocode)
 
-# No Code
+# No Code - Ainize
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere. But I deployed it.
 
