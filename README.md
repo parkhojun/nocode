@@ -1,53 +1,16 @@
+[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/gkswjdzz/nocode)
+
 # No Code
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
-
-## Getting Started
-
-Start by not writing any code.
-
-```
-
-```
-
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
-
-```
-
-```
-
-The possibilities are endless.
-
-### Building the Application
-
-Now that you have not done anything it's time to build your application:
-
-```
-
-```
-
-Yep. That's it. You should see the following output:
-
-```
-
-```
+No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere. But I deployed it.
 
 ### Deploying
 
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
+I deployed it [here](https://ainize.ai/deployment/gkswjdzz/nocode). I wrote three lines of code of 
+Dockerfile.
 
-```
-
-```
-
-It's that simple. And when it comes time to scale the application, all you have to do is:
-
-```
-
-```
-
-I know right?
+It is very insecure and non-reliable.
 
 ## Contributing
 
-You don't.
+Can you reduce the code?
